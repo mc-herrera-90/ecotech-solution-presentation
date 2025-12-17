@@ -13,7 +13,7 @@
 
 <!-- Python -->
 <div style="text-align: center;">
-    <img src="../assets/python.svg" 
+    <img src="assets/python.svg" 
             alt="Python" 
             style="height: 60px; object-fit: contain;">
     <p style="margin-top: 0.3rem; font-size: 1rem;">Python 3.10+</p>
@@ -37,7 +37,7 @@
 
 <!-- Root Access -->
 <div style="text-align: center;">
-    <img src="../assets/root.svg"
+    <img src="assets/root.svg"
             alt="Root Access"
             style="height: 60px; object-fit: contain;">
     <p style="margin-top: 0.3rem; font-size: 1rem;">Acceso root MySQL</p>
